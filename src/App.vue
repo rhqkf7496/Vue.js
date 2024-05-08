@@ -3,7 +3,7 @@
     <div class="white-bg">
       <h4>상세페이지</h4>
       <p>상세페이지 내용</p>
-      <button @click="모달창 = false">close</button>
+      <button @click="모달창 = false" style="color:red">close</button>
     </div>
   </div>
 
